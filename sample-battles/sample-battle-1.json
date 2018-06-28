@@ -1,0 +1,17 @@
+{
+    "monsters": [
+        {
+            "NAME": "Wight1",
+            "AC": 14,
+            "HP": 45
+        }, {
+            "NAME": "Wight2",
+            "AC": 14,
+            "HP": 47
+        }, {
+            "NAME": "Wight3",
+            "AC": 14,
+            "HP": 46
+        }
+    ]
+}
